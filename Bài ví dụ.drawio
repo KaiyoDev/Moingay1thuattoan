@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9_w1CZ2F6EyWSkKkxrIP-1" value="ví dụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9_w1CZ2F6EyWSkKkxrIP-1" value="ví dụ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWxtULIwVCzVYlUeCvSm-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xWxtULIwVCzVYlUeCvSm-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xWxtULIwVCzVYlUeCvSm-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xWxtULIwVCzVYlUeCvSm-4" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xWxtULIwVCzVYlUeCvSm-5" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
